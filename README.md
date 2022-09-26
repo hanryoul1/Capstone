@@ -1,5 +1,4 @@
 # Capstone Design
-#Japanese Food
 
 A new Capstone Design project.
 
