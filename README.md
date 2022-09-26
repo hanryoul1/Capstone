@@ -1,6 +1,7 @@
-# japan
+# Capstone Design_Japanese Food
 
 A new Capstone Design project.
+Select Japanese food with Dart&Flutter.
 
 ## Getting Started
 
